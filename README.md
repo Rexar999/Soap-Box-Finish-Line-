@@ -1,2 +1,2 @@
 # Soap-Box-Finish-Line-
-Code for a toggle finish line
+Code for a toggle finish line.
